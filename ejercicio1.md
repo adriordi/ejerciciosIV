@@ -5,3 +5,6 @@ El ordenador que he utilizado para el ejercicio está en [este enlace](https://w
 
 Para calcular el coste de amortización a 4 y 7 años, se amortiza un 26% hasta un máximo de 10 años.
 Suponiendo que lo compramos el 1 de enero, el coste de amortización será de 214,6612€ anuales.
+
+Referencias:
+* https://www.serautonomo.net/%C2%BFcomo-se-calcula-la-amortizacion.html
